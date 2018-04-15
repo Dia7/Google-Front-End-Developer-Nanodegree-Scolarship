@@ -10,3 +10,6 @@ function isPositive(n) {
 };
 each([-2, 7, 11, -4, -10], isPositive);
 
+// 7
+// 11
+
